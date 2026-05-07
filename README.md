@@ -261,15 +261,3 @@ project-files/dynamips/*_stdout.txt
 ```
 
 ---
-
-## 👤 Author
-
-**[Your Name]**
-Information Systems Engineering Student
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
